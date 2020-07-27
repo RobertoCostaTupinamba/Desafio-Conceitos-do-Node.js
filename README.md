@@ -14,4 +14,4 @@ Esta rota deve ser utilizada quando necessita buscar um lista de todos os reposi
 
 http://localhost:3333/repositories -> Retorna um array de objetos onde cada um é um repositório.  
 
-![./src/img/docs/GET.png]
+![](/src/img/docs/GET.png)
