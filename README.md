@@ -44,7 +44,7 @@ Caso não exista algum desses atributos será retornado um **erro:Invalid body p
 
 Se tudo der certo irá retornar o repositório criado com o seu **id**
 
-![](/src/img/docs/createPOST.png)
+![](/src/img/docs/createPOST.PNG)
 
 
 ### Dar like em um repositório
@@ -55,5 +55,5 @@ http://localhost:3333/repositories/**id**/like
 
 Caso tudo de certo sera retornado o repositório que foi incrementado o like
 
-![](src/img/docs/likePOST.png)
+![](src/img/docs/likePOST.PNG)
 
